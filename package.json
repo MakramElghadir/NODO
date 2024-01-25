@@ -1,0 +1,21 @@
+{
+  "name": "mi_primera_app_node",
+  "version": "0.0.0",
+  "description": "bla bla bla esta es la primera vez que arranco un proyecto de node",
+  "main": "script.js",
+  "scripts": {
+    "test": "git repository"
+  },
+  "repository": {
+    "type": "git",
+    "url": "noob"
+  },
+  "keywords": [
+    "noob"
+  ],
+  "author": "mac ram",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.40"
+  }
+}
